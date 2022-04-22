@@ -1,7 +1,0 @@
-{
-    "files.associations": {
-        "*.tsx": "typescriptreact",
-        "*.ejs": "html",
-        "string.h": "c"
-    }
-}
